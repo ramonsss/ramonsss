@@ -129,6 +129,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
