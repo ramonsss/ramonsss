@@ -144,8 +144,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 
 <picture>
-    <source media=" (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonsss/ramonsss/output/github-contribution-grid-snake-dark.svg"> <source media="     (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonsss/ramonsss/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ramonsss/ramonsss/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonsss/ramonsss/output/github-contribution-grid-snake-dark.svg#007AFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonsss/ramonsss/output/github-contribution-grid-snake.svg#007AFF">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ramonsss/ramonsss/output/github-contribution-grid-snake.svg#007AFF">
 </picture>
 <br><br>
 
