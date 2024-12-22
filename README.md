@@ -123,24 +123,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=ramonsss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      />
-    </td>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=ramonsss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>
+
 
 
 
