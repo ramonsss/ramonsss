@@ -94,7 +94,6 @@ Me chamo Ramon Silva de Souza, tenho 18 anos. Atualmente, estou cursando o 3º s
     width="30px" 
     style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
 <img
     align="left" 
     alt="C#" 
@@ -102,7 +101,6 @@ Me chamo Ramon Silva de Souza, tenho 18 anos. Atualmente, estou cursando o 3º s
     width="30px" 
     style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
 <img 
 align="left" 
     alt="Java" 
