@@ -73,6 +73,14 @@ Me chamo Ramon Silva de Souza, tenho 18 anos. Atualmente, estou cursando o 3º s
 />
 <img 
     align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>    
+<img 
+    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
