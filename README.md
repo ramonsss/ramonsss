@@ -77,7 +77,7 @@ Me chamo Ramon Silva de Souza, tenho 18 anos. Atualmente, estou cursando o 3º s
     title="Node" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />    
 <img 
     align="left" 
