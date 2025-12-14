@@ -6,7 +6,7 @@
 
 
 # 👩🏻‍💻 Ramon Souza
-**`Desenvolvedor FrontEnd`**
+**`Desenvolvedor BackEnd`**
 
 Me chamo Ramon Silva de Souza, tenho 19 anos. Atualmente, estou cursando o 4º semestre de Engenharia da Computação no CESUPA (Centro Universitário do Pará). 
 
