@@ -1,157 +1,152 @@
+# 👨‍💻 Ramon Souza
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007AFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+
+### Backend Developer • Software Engineer • Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=007AFF&center=true&vCenter=true&width=700&lines=Backend+Developer+with+.NET+and+Node.js;Engineering+student+at+CESUPA;Building+modern+and+scalable+applications;Always+learning+new+technologies" />
+
+<br>
+
+<a href="https://github.com/ramonsss">
+    <img src="https://img.shields.io/github/followers/ramonsss?style=for-the-badge&color=007AFF&labelColor=1c1c1c&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/ramonsss?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ramonsss?style=for-the-badge&color=007AFF&labelColor=1c1c1c&logo=starship&label=Stars"/>
+</a>
+
+<a href="https://github.com/ramonsss">
+    <img src="https://img.shields.io/badge/Profile-007AFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
-
-
-# 👩🏻‍💻 Ramon Souza
-**`Desenvolvedor BackEnd`**
-
-Me chamo Ramon Silva de Souza, tenho 19 anos. Atualmente, estou cursando o 5º semestre de Engenharia da Computação no CESUPA (Centro Universitário do Pará). 
-
-<p align="left">      
-    <a href="https://github.com/ramonsss?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ramonsss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-    </a>
-    <a href="https://github.com/ramonsss?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ramonsss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 🚀 About Me
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node"
-    title="Node" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>    <img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Sql" 
-    title="Sql"
-    width="30px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+```csharp
+class RamonSouza
+{
+    string Role = "Backend Developer";
+    string Education = "Computer Engineering @ CESUPA";
+    string Focus = "Scalable APIs and Modern Applications";
 
-<br/>
-<br/>
+    string[] Languages =
+    {
+        "C#",
+        "JavaScript",
+        "TypeScript",
+        "Java",
+        "C"
+    };
 
-### 📊 Estatísticas
+    string[] Technologies =
+    {
+        ".NET",
+        "Node.js",
+        "React",
+        "PostgreSQL",
+        "Docker"
+    };
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=ramonsss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=11" 
-  />
+    public void CurrentGoal()
+    {
+        Console.WriteLine("Become a high-level software engineer.");
+    }
+}
+```
+
+---
+
+# 🧠 Current Focus
+
+- 🔹 Backend development with .NET and Node.js
+- 🔹 REST APIs and scalable architectures
+- 🔹 Databases with PostgreSQL and MySQL
+- 🔹 Software engineering best practices
+- 🔹 Performance and clean code
+
+---
+
+# 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,cs,dotnet,java,c,mysql,postgres,git,github,docker,vscode,linux&theme=dark" />
+
 </div>
 
+---
 
+# 📈 GitHub Analytics
 
+<div align="center">
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonsss/ramonsss/output/github-contribution-grid-snake-dark.svg#007AFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonsss/ramonsss/output/github-contribution-grid-snake.svg#007AFF">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ramonsss/ramonsss/output/github-contribution-grid-snake.svg#007AFF">
-</picture>
-<br><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonsss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=007AFF&icon_color=007AFF&text_color=ffffff"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=007AFF&text_color=ffffff"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ramonsss&theme=tokyonight&hide_border=true&background=0D1117&ring=007AFF&fire=007AFF&currStreakLabel=007AFF"/>
+
+</div>
+
+---
+
+# 🐍 Contributions Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ramonsss/ramonsss/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```txt
+📌 Clean Architecture
+📌 Microservices
+📌 Docker & DevOps
+📌 Advanced PostgreSQL
+📌 Software Design Patterns
+📌 Cloud Computing
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ramonsss">
+<img src="https://skillicons.dev/icons?i=github" width="50px"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50px"/>
+</a>
+
+<a href="mailto:SEUEMAILAQUI">
+<img src="https://skillicons.dev/icons?i=gmail" width="50px"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Building modern solutions through code."
+
+</div>
